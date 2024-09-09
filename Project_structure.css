@@ -1,0 +1,24 @@
+autonomous-content-intelligence/
+│
+├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── notebooks/
+│   ├── data_exploration.ipynb
+│   └── model_development.ipynb
+│
+├── src/
+│   ├── crawler.py
+│   ├── preprocess.py
+│   ├── nlp_pipeline.py
+│   ├── train.py
+│   ├── evaluate.py
+│   └── deploy.py
+│
+├── models/
+│   └── saved_model/
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
