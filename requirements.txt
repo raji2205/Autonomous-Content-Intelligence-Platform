@@ -1,0 +1,17 @@
+beautifulsoup4
+requests
+scrapy
+tensorflow
+torch
+transformers
+scikit-learn
+pandas
+numpy
+nltk
+spacy
+flask
+gunicorn
+streamlit
+boto3  # For AWS integration
+kafka-python  # For real-time stream processing
+explainable-ai-sdk  # Hypothetical package for Explainable AI
